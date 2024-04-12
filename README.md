@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello.
+
+I'm Calvin, a student with a keen interest in exploring the world of legacy jailbreaking.
 
 <!--
 **calvink19/calvink19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--- [![my stats!](https://github-readme-stats.vercel.app/api?username=calvink19&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) !--->
+[![Skills](https://skillicons.dev/icons?i=html,css,js,jquery,python,linux,vscode&theme=dark)](https://skillicons.dev)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=calvink19&show_icons=true&theme=github_dark&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvink19&layout=compact&theme=github_dark)
