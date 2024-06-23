@@ -2,6 +2,9 @@
 
 I'm Calvin, a student with a keen interest in exploring the world of legacy jailbreaking.
 
+Contact me on Discord.
+![Discord](https://discord.c99.nl/widget/theme-1/1012513412594536528.png)
+
 <!--
 **calvink19/calvink19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -20,3 +23,4 @@ Here are some ideas to get you started:
 ![Stats](https://github-readme-stats.vercel.app/api?username=calvink19&show_icons=true&theme=github_dark&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvink19&layout=compact&theme=github_dark)
+
