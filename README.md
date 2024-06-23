@@ -1,6 +1,7 @@
 ### Hello.
 
 I'm Calvin, a student with a keen interest in exploring the world of legacy jailbreaking.  
+
 ![Discord](https://discord.c99.nl/widget/theme-1/1012513412594536528.png)
 
 
