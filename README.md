@@ -1,6 +1,5 @@
-### Hello.
-
-I'm Calvin, a student with a keen interest in exploring the world of legacy jailbreaking.  
+# Hey, I'm Calvin.*
+I enjoy gaming, coding, and like to tinker with old iOS devices in my spare time.
 
 ![Discord](https://discord.c99.nl/widget/theme-1/1012513412594536528.png)
 
@@ -24,3 +23,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvink19&layout=compact&theme=github_dark)
 
+`UTC-6 (North America: Central Time)`
