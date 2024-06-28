@@ -1,4 +1,4 @@
-# Hey, I'm Calvin.*
+# Hey, I'm Calvin.
 I enjoy gaming, coding, and like to tinker with old iOS devices in my spare time.
 
 ![Discord](https://discord.c99.nl/widget/theme-1/1012513412594536528.png)
