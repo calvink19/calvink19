@@ -2,11 +2,11 @@
 I enjoy gaming, coding, and like to tinker with old iOS devices in my spare time.
 
 Socials (if you need to contact me):  
-\- GitHub- @cmgmini
-\- GitHub- @modmyi
-\- Discord- @calvink_19
-\- YouTube- @㐀
-\- Reddit- /u/East-Box-8015
+\- GitHub: @cmgmini  
+\- GitHub: @modmyi  
+\- Discord: @calvink_19  
+\- YouTube: @㐀  
+\- Reddit: /u/East-Box-8015  
 
 <!--
 
