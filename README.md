@@ -1,12 +1,10 @@
 # Hey, I'm Calvin.
 I enjoy gaming, coding, and like to tinker with old iOS devices in my spare time.
 
-Socials (if you need to contact me):  
-\- GitHub: @cmgmini  
-\- GitHub: @modmyi  
-\- Discord: @calvink_19  
-\- YouTube: @㐀  
-\- Reddit: /u/East-Box-8015  
+- 🔭 I’m currently working on Cydia-Repo-Kit and the ModMyi archival repo.
+- 🌱 I’m currently learning HTML/CSS/JS and Python.<!--- 👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ... - 💬 Ask me about old iOS -->
+- 📫 You can reach me on Discord: `@calvink_19`  
+- ⚡ Fun fact: I'm left handed.
 
 <!--
 
@@ -28,6 +26,5 @@ Here are some ideas to get you started:
 <!--- [![my stats!](https://github-readme-stats.vercel.app/api?username=calvink19&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) !--->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=calvink19&show_icons=true&theme=github_dark&rank_icon=github)
-
 
 `UTC-6 (North America: Central Time)`
