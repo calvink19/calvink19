@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 -->
 <!--- [![my stats!](https://github-readme-stats.vercel.app/api?username=calvink19&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) !--->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=calvink19&show_icons=true&theme=github_dark&rank_icon=github)
+![Stats](https://github-readme-stats.vercel.app/api?username=calvink19&show_icons=true&rank_icon=github&theme=transparent)
 
 `UTC-6 (North America: Central Time)`
