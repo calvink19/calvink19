@@ -2,8 +2,8 @@
 I enjoy gaming, coding, and like to tinker with old iOS devices in my spare time.
 
 - 🔭 I’m currently working on Cydia-Repo-Kit and the ModMyi archival repo.
-- 🌱 I’m learning HTML, CSS, JS, and Python.<!--- 👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ... - 💬 Ask me about old iOS -->
-- 📫 You can reach me on Discord, E-mail, or Reddit. ([ck19c.github.io](https://ck19c.github.io))
+- 🌱 I’m learning HTML, CSS, JS, PHP, Python, and Objective-C.<!--- 👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ... - 💬 Ask me about old iOS -->
+- 📫 You can reach me on Discord, E-mail, or Reddit.
 <!--
 
 ![Discord](https://discord.c99.nl/widget/theme-1/1012513412594536528.png)
